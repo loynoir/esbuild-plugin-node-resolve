@@ -1,0 +1,30 @@
+{
+  "name": "esbuild-plugin-node-resolve",
+  "version": "1.0.0",
+  "description": "esbuild plugin resolve modules respect env NODE_PATH",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loynoir/esbuild-plugin-node-resolve.git"
+  },
+  "author": "loynoir",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/loynoir/esbuild-plugin-node-resolve/issues"
+  },
+  "homepage": "https://github.com/loynoir/esbuild-plugin-node-resolve#readme",
+  "keywords": [
+    "esbuild",
+    "plugin",
+    "NODE_PATH",
+    "module",
+    "esm"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {}
+}
